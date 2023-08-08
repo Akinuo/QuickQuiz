@@ -1,6 +1,7 @@
 QuickQuiz - Your Simple Quiz Companion
 
-Welcome to QuickQuiz, the straightforward and engaging quiz app that guarantees a great time while testing your knowledge! With a diverse collection of 30 thought-provoking questions, QuickQuiz randomly selects 10 questions for each session. Let's dive in and see how sharp your wits are!
+Introducing QuickQuiz – the captivating quiz application designed to provide both entertainment and a stimulating test of your knowledge! Featuring a diverse compilation of 30 intellectually stimulating questions, QuickQuiz employs a random selection of 10 questions per session. Drawing inspiration from florinpop17, let's plunge into the experience and uncover the depth of your intellect!
+
 ![Screenshot 2023-08-08 054133](https://github.com/Akinuo/quizapp/assets/141739070/35deb76a-5614-4ae9-b7bd-309f9aa25b2e)
 
 Features
